@@ -1,0 +1,5 @@
+E:\SourceTree\74ms\MS74\MS74Framework\bin\Debug\MS74Framework.dll
+E:\SourceTree\74ms\MS74\MS74Framework\bin\Debug\MS74Framework.pdb
+E:\SourceTree\74ms\MS74\MS74Framework\obj\Debug\MS74Framework.csprojResolveAssemblyReference.cache
+E:\SourceTree\74ms\MS74\MS74Framework\obj\Debug\MS74Framework.dll
+E:\SourceTree\74ms\MS74\MS74Framework\obj\Debug\MS74Framework.pdb
